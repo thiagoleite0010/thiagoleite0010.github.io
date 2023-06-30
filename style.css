@@ -1,0 +1,29 @@
+body {
+    background-color: aquamarine;
+    padding: 3%;
+}
+
+.descricao {
+    position: absolute;
+    top: 40%;
+    right: 40px;
+}
+
+#foto {
+    float: left;
+    height: 503px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+.image-container {
+    height: 523px;
+    position: relative;
+}
+.meu-nome{
+    text-align: center;
+}
+
+ul li:nth-child(odd) {
+    background-color: azure;
+}
